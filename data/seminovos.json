@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "versao": "SRV 2.8 TDI 4x4 CD AT",
+    "ano": 2020,
+    "preco": 219900,
+    "km": 68000,
+    "cor": "Branco",
+    "combustivel": "Diesel",
+    "positivos": [
+      "Altíssima confiabilidade e durabilidade reconhecida mundialmente",
+      "Excelente capacidade de carga (1.050 kg) e reboque (3.500 kg)",
+      "Motor 2.8 TDI com 204 cv e torque elevado",
+      "Revisões documentadas em concessionária Toyota",
+      "Ótima revenda — um dos mais valorizados do mercado"
+    ],
+    "negativos": [
+      "Alto consumo de combustível em uso urbano (8 km/l)",
+      "Suspensão traseira rígida prejudica conforto sem carga",
+      "Dimensões grandes dificultam manobras em cidade"
+    ],
+    "imagem": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80"
+  },
+  {
+    "id": 2,
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "versao": "GT 5.0 V8 Premium AT",
+    "ano": 2019,
+    "preco": 299900,
+    "km": 42000,
+    "cor": "Azul Velocity",
+    "combustivel": "Gasolina",
+    "positivos": [
+      "Motor V8 5.0 com 460 cv — experiência única de condução",
+      "Design icônico atemporal, sempre chamativo",
+      "Interior premium com bancos aquecidos e refrigerados",
+      "Sistema de exaustão ativo com som incrível",
+      "Boa manutenção — revisões em concessionária Ford"
+    ],
+    "negativos": [
+      "Consumo muito alto: cerca de 5 km/l na cidade",
+      "Custos de manutenção e peças mais elevados",
+      "Apenas 2 portas limita praticidade no dia a dia",
+      "IPVA alto pela potência e valor do veículo"
+    ],
+    "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&q=80"
+  },
+  {
+    "id": 3,
+    "marca": "Volkswagen",
+    "modelo": "Golf GTI",
+    "versao": "2.0 TSI DSG",
+    "ano": 2021,
+    "preco": 189900,
+    "km": 31000,
+    "cor": "Cinza Indium",
+    "combustivel": "Gasolina",
+    "positivos": [
+      "Motor 2.0 TSI 230 cv com desempenho excepcional",
+      "Câmbio DSG 7 marchas extremamente preciso e rápido",
+      "Dinâmica de condução esportiva com conforto diário",
+      "Interior refinado com detalhes xadrez clássicos",
+      "Baixa quilometragem e histórico de revisões completo"
+    ],
+    "negativos": [
+      "Câmbio DSG exige manutenção específica e custosa",
+      "Seguro veicular com valor elevado",
+      "Peças importadas com prazo de entrega variável"
+    ],
+    "imagem": "https://images.unsplash.com/photo-1543465077-db45d34b88a5?w=600&q=80"
+  },
+  {
+    "id": 4,
+    "marca": "Hyundai",
+    "modelo": "Santa Fe",
+    "versao": "3.5 V6 AWD AT",
+    "ano": 2020,
+    "preco": 179900,
+    "km": 55000,
+    "cor": "Preto Phantom",
+    "combustivel": "Gasolina",
+    "positivos": [
+      "7 lugares com muito espaço interno e bagageiro generoso",
+      "Tração AWD com múltiplos modos de condução",
+      "Interior premium com teto solar panorâmico",
+      "Excelente pacote de segurança com 7 airbags",
+      "Garantia Hyundai vigente até 2025"
+    ],
+    "negativos": [
+      "Consumo médio de 9 km/l em uso misto",
+      "Motor 3.5 V6 com gasolina exclusivamente",
+      "IPVA elevado pelo valor do veículo"
+    ],
+    "imagem": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=600&q=80"
+  },
+  {
+    "id": 5,
+    "marca": "Honda",
+    "modelo": "Accord",
+    "versao": "Sport Hybrid 2.0 CVT",
+    "ano": 2022,
+    "preco": 199900,
+    "km": 22000,
+    "cor": "Prata Lunar",
+    "combustivel": "Híbrido (Flex + Elétrico)",
+    "positivos": [
+      "Sistema híbrido com consumo excepcional: 18 km/l na cidade",
+      "Motor combinado de 215 cv com excelente desempenho",
+      "Interior extremamente luxuoso com couro premium",
+      "Tecnologia Honda Sensing completa de série",
+      "Baixíssima quilometragem e estado impecável"
+    ],
+    "negativos": [
+      "Preço de manutenção do sistema híbrido mais elevado",
+      "Porta-malas reduzido pela bateria do sistema híbrido",
+      "Peças específicas requerem concessionária Honda"
+    ],
+    "imagem": "https://images.unsplash.com/photo-1606152421802-db97b9c7a11b?w=600&q=80"
+  },
+  {
+    "id": 6,
+    "marca": "BMW",
+    "modelo": "320i",
+    "versao": "Sport 2.0 Turbo AT",
+    "ano": 2021,
+    "preco": 249900,
+    "km": 38000,
+    "cor": "Branco Alpino",
+    "combustivel": "Gasolina",
+    "positivos": [
+      "Marca premium com alto status e reconhecimento",
+      "Motor TwinPower Turbo de 184 cv altamente refinado",
+      "Dinâmica de condução esportiva de referência na categoria",
+      "Interior com acabamentos premium e tecnologia iDrive",
+      "Revisões em concessionária BMW com histórico completo"
+    ],
+    "negativos": [
+      "Custo de manutenção muito elevado — peças e mão de obra",
+      "Consumo de 10 km/l em uso misto",
+      "Seguro veicular com valor alto",
+      "Algumas peças com longos prazos de entrega no Brasil"
+    ],
+    "imagem": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80"
+  }
+]

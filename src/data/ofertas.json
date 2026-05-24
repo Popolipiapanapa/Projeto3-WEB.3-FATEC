@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "ano": 2022,
+    "preco_original": 145000,
+    "preco_oferta": 119900,
+    "desconto": 17,
+    "cor": "Prata",
+    "km": 28000,
+    "combustivel": "Flex",
+    "imagem": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=600&q=80"
+  },
+  {
+    "id": 2,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "ano": 2021,
+    "preco_original": 138000,
+    "preco_oferta": 109900,
+    "desconto": 20,
+    "cor": "Preto",
+    "km": 35000,
+    "combustivel": "Flex",
+    "imagem": "https://images.unsplash.com/photo-1606152421802-db97b9c7a11b?w=600&q=80"
+  },
+  {
+    "id": 3,
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "ano": 2023,
+    "preco_original": 98000,
+    "preco_oferta": 84900,
+    "desconto": 13,
+    "cor": "Branco",
+    "km": 12000,
+    "combustivel": "Flex",
+    "imagem": "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=600&q=80"
+  },
+  {
+    "id": 4,
+    "marca": "Jeep",
+    "modelo": "Renegade",
+    "ano": 2022,
+    "preco_original": 165000,
+    "preco_oferta": 139900,
+    "desconto": 15,
+    "cor": "Vermelho",
+    "km": 22000,
+    "combustivel": "Flex",
+    "imagem": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=600&q=80"
+  },
+  {
+    "id": 5,
+    "marca": "Chevrolet",
+    "modelo": "Onix Plus",
+    "ano": 2023,
+    "preco_original": 89000,
+    "preco_oferta": 74900,
+    "desconto": 16,
+    "cor": "Cinza",
+    "km": 8000,
+    "combustivel": "Flex",
+    "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=600&q=80"
+  },
+  {
+    "id": 6,
+    "marca": "Hyundai",
+    "modelo": "HB20",
+    "ano": 2022,
+    "preco_original": 78000,
+    "preco_oferta": 64900,
+    "desconto": 17,
+    "cor": "Azul",
+    "km": 18000,
+    "combustivel": "Flex",
+    "imagem": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=600&q=80"
+  }
+]
