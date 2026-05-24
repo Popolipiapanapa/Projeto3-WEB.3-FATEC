@@ -104,8 +104,8 @@ concessionaria/
 
 ## 👩‍💻 Autora
 
-**Vanessa Carvalho**  
-Desenvolvedora Backend · ASP.NET Core  
+**Poliana e Vanessa**  
+ESTUDANTE DA FATEC 
 
 ---
 
